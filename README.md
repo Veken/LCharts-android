@@ -6,7 +6,7 @@
 
 ### 导入：
 ```
-  implementation 'com.lixs.charts:charts:1.0.6'
+  compile 'com.veken:chart_view:1.0.0'
 ```
  >   也可以下载代码进行依赖
 
